@@ -1,0 +1,66 @@
+/* THIS IS A COMENNT IN */
+
+
+
+
+    
+
+
+
+
+* {
+    box-sizing: border-box;
+    padding: 15px;
+}
+
+
+
+
+
+h1 {
+    color:  white;
+    font-size: 35px;
+
+}
+
+body {
+    
+    
+    
+
+
+    background-image: url("images/R.jpg");
+    background-size: 140%;
+}
+
+p {
+    color:  white;
+    font-size: 20px; 
+} 
+
+img {
+    width: 300px;
+    height: 300px;
+    
+
+
+}
+
+
+.intro {
+     background-color:blue;
+}
+
+.paragraphs {
+    font: 15px;
+    background-color: rgb(21, 247, 0);
+}
+
+.centre {
+    text-align: center;
+}
+
+.navigation{
+
+    background-color: white;
+}
